@@ -1,0 +1,8 @@
+{
+    "host": "localhost",
+    "port": 5433,
+    "user": "last_supper",
+    "password": "1234",
+    "database": "sns_post_score"
+  }
+  
